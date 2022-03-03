@@ -1,0 +1,475 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Science: Mathematics",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the hexadecimal system, what number comes after 9?",
+            "correct_answer": "The Letter A",
+            "incorrect_answers": [
+                "10",
+                "The Number 0",
+                "16"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the movie The Iron Giant, this character is the protagonist.",
+            "correct_answer": "Hogarth Hughes",
+            "incorrect_answers": [
+                "Kent Mansley",
+                "Dean McCoppin",
+                "Annie Hughes"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Arcade Fires The Suburbs won the Album of the Year award in the 2011 Grammys.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many studio albums have the duo Daft Punk released?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "1",
+                "5",
+                "2"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Formula One driver was nicknamed The Professor?",
+            "correct_answer": "Alain Prost",
+            "incorrect_answers": [
+                "Ayrton Senna",
+                "Niki Lauda",
+                "Emerson Fittipaldi"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many Star Spirits do you rescue in the Nintendo 64 video game Paper Mario?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "5",
+                "10",
+                "12"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Soccer player Cristiano Ronaldo opened a museum dedicated to himself.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "When was the first Half-Life released?",
+            "correct_answer": "1998",
+            "incorrect_answers": [
+                "2004",
+                "1999",
+                "1997"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many Chaos Emeralds are there in the Sonic the Hedgehog universe?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "6",
+                "8",
+                "14"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the romanized Arabic word for moon?",
+            "correct_answer": "Qamar",
+            "incorrect_answers": [
+                "Najma",
+                "Kawkab",
+                "Shams"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many cores does the Intel i7-6950X have?",
+            "correct_answer": "10",
+            "incorrect_answers": [
+                "12",
+                "8",
+                "4"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "AMD created the first consumer 64-bit processor.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these songs is NOT included in the Suicide Squad OST?",
+            "correct_answer": "Skies on Fire - AC\/DC",
+            "incorrect_answers": [
+                "Heathens - Twenty One Pilots",
+                "Without Me - Eminem",
+                "Fortunate Son - Creedence Clearwater Revival"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What ingredients are required to make a cake in Minecraft?",
+            "correct_answer": "Milk, Sugar, Egg, and Wheat",
+            "incorrect_answers": [
+                "Milk, Bread, Egg, and Wheat",
+                "Milk, Sugar Cane, Egg, and Wheat",
+                "Milk, Sugar, and Wheat"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Myopia is the scientific term for which condition?",
+            "correct_answer": "Shortsightedness",
+            "incorrect_answers": [
+                "Farsightedness",
+                "Double Vision",
+                "Clouded Vision"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What was the real name of the Albanian national leader Skanderbeg?",
+            "correct_answer": "Gjergj Kastrioti",
+            "incorrect_answers": [
+                "Diturak Zhulati",
+                "Iskander Bejko",
+                "Mirash Krasniki"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the movie Scream who is Ghost Face?",
+            "correct_answer": "Billy Loomis and Stu Macher",
+            "incorrect_answers": [
+                "Dewey Riley",
+                "Sidney Prescott",
+                "Archie Prescott and Philip Marv"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In the Toaru Kagaku no Railgun anime, espers can only reach a maximum of level 6 in their abilities.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which survivor in Left 4 Dead sacrificed themself to save the other survivors?",
+            "correct_answer": "Bill",
+            "incorrect_answers": [
+                "Louis",
+                "Francis",
+                "Zoey"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+            "correct_answer": "Center Parcs",
+            "incorrect_answers": [
+                "Yelloh Village",
+                "Keycamp",
+                "Villa Plus"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What year did the James Cameron film Titanic come out in theaters?",
+            "correct_answer": "1997",
+            "incorrect_answers": [
+                "1996",
+                "1998",
+                "1999"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which town was Seamus Sledge Cowden from Tom Clancys Rainbow Six Siege born in?",
+            "correct_answer": "John O Groats",
+            "incorrect_answers": [
+                "Brawl",
+                "Kearvaig",
+                "Talmine"
+            ]
+        },
+        {
+            "category": "Science: Gadgets",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which company developed the Hololens?",
+            "correct_answer": "Microsoft",
+            "incorrect_answers": [
+                "HTC",
+                "Oculus",
+                "Tobii"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In Call Of Duty: Zombies, Richtofen is in possession of two filled blood vials belonging to who?",
+            "correct_answer": "Sal DeLuca and Finn OLeary",
+            "incorrect_answers": [
+                "Richtofen",
+                "Al Arlington and Sal DeLuca",
+                "Jessica Rose and Jack Vincent"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who plays Bruce Wayne in the 2008 movie The Dark Knight?",
+            "correct_answer": "Christian Bale",
+            "incorrect_answers": [
+                "Michael Caine",
+                "Ron Dean",
+                "Heath Ledger"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+            "correct_answer": "Libra",
+            "incorrect_answers": [
+                "Gemini",
+                "Taurus",
+                "Capricorn"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these games takes place in the Irish town of Doolin, with the option to play as one of the characters, Ellen and Keats?",
+            "correct_answer": "Folklore",
+            "incorrect_answers": [
+                "Shadow of the Colossus",
+                "ICO",
+                "Beyond Good Evil"
+            ]
+        },
+        {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What Magic: The Gathering cards flavor text is just Ribbit.?",
+            "correct_answer": "Turn to Frog",
+            "incorrect_answers": [
+                "Spore Frog",
+                "Bloated Toad",
+                "Frogmite"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The emblem on the flag of the Republic of Tajikistan features a sunrise over mountains below what symbol?",
+            "correct_answer": "Crown",
+            "incorrect_answers": [
+                "Bird",
+                "Sickle",
+                "Tree"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the official name of the star located closest to the North Celestial Pole?",
+            "correct_answer": "Polaris",
+            "incorrect_answers": [
+                "Eridanus",
+                "Gamma Cephei",
+                "Iota Cephei"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the inspector in the series On the Buses?",
+            "correct_answer": "Blakey",
+            "incorrect_answers": [
+                "Harper",
+                "Naily",
+                "Gally"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Formula 1 driver switched teams in the middle of the 2017 season?",
+            "correct_answer": "Carlos Sainz Jr.",
+            "incorrect_answers": [
+                "Daniil Kvyat",
+                "Jolyon Palmer",
+                "Rio Haryanto"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the game Warframe, what Mastery Rank do you need to have to build the Tigris Prime?",
+            "correct_answer": "13",
+            "incorrect_answers": [
+                "6",
+                "18",
+                "10"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which color cannot be produced in Roses, even through genetic alteration?",
+            "correct_answer": "Blue",
+            "incorrect_answers": [
+                "Black",
+                "Orange",
+                "Brown"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Shang Tsung is a playable character in Mortal Kombat XL.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+            "correct_answer": "Medell&iacute;n",
+            "incorrect_answers": [
+                "Bogot&aacute;",
+                "Quito",
+                "Cali"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The Thirty Years War ended with which treaty?",
+            "correct_answer": "Peace of Westphalia",
+            "incorrect_answers": [
+                "Treaty of Versailles",
+                "Treaty of Paris",
+                "Peace of Prague"
+            ]
+        },
+        {
+            "category": "Entertainment: Comics",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Homestuck the Kingdom of Darkness is also known as?",
+            "correct_answer": "Derse",
+            "incorrect_answers": [
+                "Skaia",
+                "Prospit",
+                "The Medium"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following was a map that was in Team Fortress 2 at launch?",
+            "correct_answer": "Gravel Pit",
+            "incorrect_answers": [
+                "Hoodoo",
+                "Gold Rush",
+                "Upward"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the name of the Boeing B-29 that dropped the Little Boy atomic bomb on Hiroshima?",
+            "correct_answer": "Enola Gay",
+            "incorrect_answers": [
+                "Necessary Evil",
+                "The Great Artiste",
+                "Full House"
+            ]
+        }
+    ]
+}
